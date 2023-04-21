@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 As I worked though this project, I found myself motivated by my own desire to understand how to make webpages more accesible to users.
 
 I built this project because I am aware that accessibility is something that is becoming more and more readily available now in all different kinds of media. It's important to me to learn how to be considerate towards different needs especially when I, myself, believe that content creators should be held responsible for accommodating their audiences, clients, users, etc.
