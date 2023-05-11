@@ -11,7 +11,7 @@ The issue that this project solves is the lack of accounting for audiences who b
 I learned how to use the alt attribute for accessibility purposes and I was able to apply what I have learned about responsive design to my code. I realized how nice it is to provide comments on my CSS and how it allows for me to organize my thoughts and actions. I also learned through trial and error how to rename my local repository and sync it to a renamed GitHub repository.
 
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
